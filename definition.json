@@ -1,21 +1,7 @@
 {
     "definitions": {
-      "Address": {
-        "type": "object",
-        "properties": {
-          "street": {
-            "$ref": "#/definitions/String"
-          }
-        }
-      },
       "Integer": {
         "type": "integer"
-      },
-      "String": {
-        "type": "string"
       }
-    },
-    "State": {
-      "type": "string"
     }
-  }
+}
