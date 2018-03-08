@@ -1,0 +1,24 @@
+{
+    "waste_types": {
+        "type": "string",
+        "enum": ["OMR", "EMR", "VER"],
+        "x-schema-form": {
+            "type": "select",
+            "title": "Type de déchets",
+            "titleMap": [
+                {
+                    "name": "Ordures ménagères",
+                    "value": "OMR"
+                },
+                {
+                    "name": "Emballages",
+                    "value": "EMR"
+                },
+                {
+                    "name": "Verre",
+                    "value": "VER"
+                }
+            ]
+        }
+    }
+}
