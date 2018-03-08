@@ -1,6 +1,0 @@
-{
-    "waste_types" : {
-        "type": "string",
-        "enum": ["OMR", "EMR", "VER"]
-    }   
-}
