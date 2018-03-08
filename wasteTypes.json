@@ -1,9 +1,6 @@
 {
-    "type": "object", 
-    "properties": {
-        "waste_types" : {
-            "type": "string",
-            "enum": ["OMR", "EMR", "VER"]
-        }   
-    }
+    "waste_types" : {
+        "type": "string",
+        "enum": ["OMR", "EMR", "VER"]
+    }   
 }
