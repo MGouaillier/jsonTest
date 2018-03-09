@@ -1,6 +1,6 @@
 {
     "definitions": {
-      "Integer": {
+      "text": {
         "type": "string",
         "default": "This is a string"
       }
