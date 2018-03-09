@@ -2,7 +2,7 @@
     "definitions": {
       "Integer": {
         "type": "integer",
-        "default": 123
+        "default": "123"
       }
     }
 }
