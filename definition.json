@@ -1,7 +1,8 @@
 {
     "definitions": {
       "Integer": {
-        "type": "integer"
+        "type": "integer",
+        "default": 123
       }
     }
 }
