@@ -1,8 +1,8 @@
 {
     "definitions": {
       "Integer": {
-        "type": "integer",
-        "default": "123"
+        "type": "string",
+        "default": "This is a string"
       }
     }
 }
