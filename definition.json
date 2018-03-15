@@ -2,7 +2,7 @@
     "definitions": {
       "text": {
         "type": "string",
-        "default": "This is a string"
+        "default": "This is a stringe"
       }
     }
 }
