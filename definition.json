@@ -1,8 +1,7 @@
 {
     "definitions": {
       "text": {
-        "type": "string",
-        "default": "This is a stringe"
+        "$ref": "https://raw.githubusercontent.com/MGouaillier/jsonTest/master/definition2.json#text"
       }
     }
 }
