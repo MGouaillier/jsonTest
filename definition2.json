@@ -1,6 +1,5 @@
 {
   "text": {
-    "type": "string",
-    "default": "This is a string"
+    "$ref": "https://raw.githubusercontent.com/MGouaillier/jsonTest/master/definition3.json#/text",
   }
 }
