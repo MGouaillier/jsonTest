@@ -1,7 +1,5 @@
 {
-    "definitions": {
-      "text": {
-        "$ref": "https://raw.githubusercontent.com/MGouaillier/jsonTest/master/definition2.json#/text"
-      }
-    }
+  "text": {
+    "$ref": "https://raw.githubusercontent.com/MGouaillier/jsonTest/master/definition2.json#/text"
+  }
 }
