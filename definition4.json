@@ -1,6 +1,6 @@
 {
   "text": {
     "type": "string",
-    "default": "This is sting 4"
+    "default": "This is string 4"
   }
 }
