@@ -1,0 +1,6 @@
+{
+  "text": {
+    "type": "string",
+    "default": "This is sting 4"
+  }
+}
